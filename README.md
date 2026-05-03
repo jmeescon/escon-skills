@@ -1,0 +1,54 @@
+# ESCON Skills
+
+Wiederkehrende Workflows der ESCON GmbH, codifiziert als Skills für Claude.
+
+Pendant zu [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — gleiches Format, nur mit ESCON-spezifischer Methodik.
+
+## Verwendung
+
+Claude klont dieses Repo und liest die jeweilige `SKILL.md` bei passendem Trigger:
+
+```bash
+git clone https://github.com/jmeescon/escon-skills.git /home/claude/escon-skills
+```
+
+## Skills im Repo
+
+| Skill | Trigger-Phrase | Status |
+|---|---|---|
+| `einwertung` | „Einwertung [Adresse]" | Skelett |
+| `expose-erstellung` | „Exposé für [Objekt]" | Skelett |
+| `vertriebsmemo` | „Vertriebsmemo [Objekt]" | Skelett |
+| `mandats-folder-setup` | „Folder-Setup [Objekt]" | Skelett |
+| `hausbuch-aufbau` | „Hausbuch [Objekt]" | Skelett |
+| `bautraeger-akquise` | „Bauträger-Pitch [Zielgruppe]" | Skelett |
+| `lagetexte` | „Lagetexte für [Ort]" | Skelett |
+| `nauen-immocloud-pflege` | „Nauen-Pflege" | Skelett |
+| `trade-recap` | „Trade-Recap" | Skelett |
+| `it-security-quartalscheck` | „IT-Quartalscheck" | Skelett |
+
+## Konventionen
+
+- Pfade in ASCII (keine Umlaute, kein ß) — Inhalte in den SKILL.md selbstverständlich mit korrekten deutschen Umlauten
+- Keine Mandanten-/Kundennamen, keine personenbezogenen Daten, keine konkreten Vermögensangaben im Repo
+- Outputs folgen ESCON CI (Obsidian #0A0A0A, Ember #E8621A, Sand Gold #C9A96E, Playfair Display, DM Sans)
+- Versionierung pro Skill über `metadata.version` im YAML-Frontmatter
+
+## Skill-Format
+
+Jede `SKILL.md` enthält:
+
+```markdown
+---
+name: skill-name
+description: Trigger-Beschreibung (wann lädt Claude diesen Skill)
+metadata:
+  version: 0.1.0
+---
+
+# Skill-Titel
+## Trigger
+## Vorgehen (Methodik in Schritten)
+## Templates
+## Output
+```
