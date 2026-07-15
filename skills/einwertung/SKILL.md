@@ -1,6 +1,6 @@
 ---
 name: einwertung
-description: Aktivieren, wenn der User eine Marktwert-Einwertung für ein Immobilienobjekt anfordert oder eine Kurz-Werteinschätzung benötigt. Trigger-Phrasen: 'Einwertung [Adresse]', 'Wie hoch ist der Wert von [Objekt]', 'Marktwert-Einschätzung'. Wichtigster Workflow des Maklerbetriebs.
+description: "Aktivieren, wenn der User eine Marktwert-Einwertung für ein Immobilienobjekt anfordert oder eine Kurz-Werteinschätzung benötigt. Trigger-Phrasen: 'Einwertung [Adresse]', 'Wie hoch ist der Wert von [Objekt]', 'Marktwert-Einschätzung'. Wichtigster Workflow des Maklerbetriebs."
 metadata:
   version: 0.2.0
 ---
