@@ -22,7 +22,7 @@ git clone https://github.com/jmeescon/escon-skills.git /home/claude/escon-skills
 | `mandats-folder-setup` | „Folder-Setup [Objekt]" | Skelett |
 | `hausbuch-aufbau` | „Hausbuch [Objekt]" | Skelett |
 | `bautraeger-akquise` | „Bauträger-Pitch [Zielgruppe]" | Skelett |
-| `lagetexte` | „Lagetexte für [Ort]" | Skelett |
+| `lagetexte` | „Lagetexte für [Ort]" | Aktiv (v0.2.0) |
 | `nauen-immocloud-pflege` | „Nauen-Pflege" | Skelett |
 | `trade-recap` | „Trade-Recap" | Skelett |
 | `it-security-quartalscheck` | „IT-Quartalscheck" | Skelett |
