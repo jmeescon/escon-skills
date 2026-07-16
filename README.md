@@ -16,8 +16,8 @@ git clone https://github.com/jmeescon/escon-skills.git /home/claude/escon-skills
 
 | Skill | Trigger-Phrase | Status |
 |---|---|---|
-| `einwertung` | „Einwertung [Adresse]" | Aktiv (0.2.0) |
-| `expose-erstellung` | „Exposé für [Objekt]" | Skelett |
+| `einwertung` | „Einwertung [Adresse]" | Aktiv (v0.2.0) |
+| `expose-erstellung` | „Exposé für [Objekt]" | Aktiv (v0.2.0) |
 | `vertriebsmemo` | „Vertriebsmemo [Objekt]" | Skelett |
 | `mandats-folder-setup` | „Folder-Setup [Objekt]" | Skelett |
 | `hausbuch-aufbau` | „Hausbuch [Objekt]" | Skelett |
