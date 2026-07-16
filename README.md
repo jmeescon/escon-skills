@@ -21,7 +21,7 @@ git clone https://github.com/jmeescon/escon-skills.git /home/claude/escon-skills
 | `vertriebsmemo` | „Vertriebsmemo [Objekt]" | Aktiv (v0.2.0) |
 | `mandats-folder-setup` | „Folder-Setup [Objekt]" | Aktiv (v0.2.0) |
 | `hausbuch-aufbau` | „Hausbuch [Objekt]" | Aktiv (v0.2.0) |
-| `bautraeger-akquise` | „Bauträger-Pitch [Zielgruppe]" | Skelett |
+| `bautraeger-akquise` | „Bauträger-Pitch [Zielgruppe]" | Aktiv (v0.2.0) |
 | `lagetexte` | „Lagetexte für [Ort]" | Aktiv (v0.2.0) |
 | `nauen-immocloud-pflege` | „Nauen-Pflege" | Skelett |
 | `trade-recap` | „Trade-Recap" | Skelett |
