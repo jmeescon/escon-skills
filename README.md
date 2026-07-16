@@ -24,7 +24,7 @@ git clone https://github.com/jmeescon/escon-skills.git /home/claude/escon-skills
 | `bautraeger-akquise` | „Bauträger-Pitch [Zielgruppe]" | Aktiv (v0.2.0) |
 | `lagetexte` | „Lagetexte für [Ort]" | Aktiv (v0.2.0) |
 | `nauen-immocloud-pflege` | „Nauen-Pflege" | Aktiv (v0.2.0) |
-| `trade-recap` | „Trade-Recap" | Skelett |
+| `trade-recap` | „Trade-Recap" | Aktiv (v0.2.0) |
 | `it-security-quartalscheck` | „IT-Quartalscheck" | Skelett |
 
 ## Konventionen
