@@ -19,7 +19,7 @@ git clone https://github.com/jmeescon/escon-skills.git /home/claude/escon-skills
 | `einwertung` | „Einwertung [Adresse]" | Aktiv (v0.2.0) |
 | `expose-erstellung` | „Exposé für [Objekt]" | Aktiv (v0.2.0) |
 | `vertriebsmemo` | „Vertriebsmemo [Objekt]" | Aktiv (v0.2.0) |
-| `mandats-folder-setup` | „Folder-Setup [Objekt]" | Skelett |
+| `mandats-folder-setup` | „Folder-Setup [Objekt]" | Aktiv (v0.2.0) |
 | `hausbuch-aufbau` | „Hausbuch [Objekt]" | Skelett |
 | `bautraeger-akquise` | „Bauträger-Pitch [Zielgruppe]" | Skelett |
 | `lagetexte` | „Lagetexte für [Ort]" | Aktiv (v0.2.0) |
