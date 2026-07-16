@@ -23,7 +23,7 @@ git clone https://github.com/jmeescon/escon-skills.git /home/claude/escon-skills
 | `hausbuch-aufbau` | „Hausbuch [Objekt]" | Aktiv (v0.2.0) |
 | `bautraeger-akquise` | „Bauträger-Pitch [Zielgruppe]" | Aktiv (v0.2.0) |
 | `lagetexte` | „Lagetexte für [Ort]" | Aktiv (v0.2.0) |
-| `nauen-immocloud-pflege` | „Nauen-Pflege" | Skelett |
+| `nauen-immocloud-pflege` | „Nauen-Pflege" | Aktiv (v0.2.0) |
 | `trade-recap` | „Trade-Recap" | Skelett |
 | `it-security-quartalscheck` | „IT-Quartalscheck" | Skelett |
 
