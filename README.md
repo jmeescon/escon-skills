@@ -26,6 +26,7 @@ git clone https://github.com/jmeescon/escon-skills.git /home/claude/escon-skills
 | `nauen-immocloud-pflege` | „Nauen-Pflege" | Aktiv (v0.2.0) |
 | `trade-recap` | „Trade-Recap" | Aktiv (v0.2.0) |
 | `it-security-quartalscheck` | „IT-Quartalscheck" | Aktiv (v0.2.0) |
+| `fahrtenbuch` | „Fahrtenbuch fortschreiben" | Aktiv (v0.1.0) |
 
 ## Konventionen
 
